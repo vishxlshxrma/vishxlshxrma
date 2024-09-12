@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, iOS Development, Swift & Data Science**
 
-- 📫 Reach out to me on **vishalsharma3657@gmail.com**
+- 📫 Reach out to me on **vishalku@usc.edu**
 
 - ⚡ Fun fact **I don't quit!**
 <br/>
