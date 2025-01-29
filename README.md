@@ -3,7 +3,7 @@
 <br/>
 <h3 align="center">I'm a senior in Computer Science, specializing in iOS and web development. Currently, I'm immersing myself in the dynamic realm of data science, adding a comprehensive analytical dimension to my skill set.</h3>
 
-- 💬 Ask me about **Python, iOS Development, Swift & Data Science**
+- 💬 Ask me about **Web Development, Python, iOS Development & Data Science**
 
 - 📫 Reach out to me on **vishalku@usc.edu**
 
